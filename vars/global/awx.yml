@@ -1,9 +1,0 @@
----
-projet-awx:
-  name: awx
-  state: present
-  inventories:
-    - inventory: global
-  templates:
-    - palier_exec: global
-      inventory: global

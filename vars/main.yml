@@ -7,7 +7,7 @@ v_cred_machine_pass: changecemotdepasse
 v_cred_machine: machine_credentials
 v_cred_vault: vault_key
 v_cred_vault_value: vault123456
-v_git_repo_url: "https://gitlab.com/softimiz/ansible-stack/projet-{{ current_project.name }}.git"
+v_git_repo_url: "https://github.com/josuecodjo/projet-{{ current_project.name }}.git"
 
 v_awx_organizations:
   - name: "DevOps Team"
